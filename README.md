@@ -1,5 +1,5 @@
 #FacetedNixFlake1
-Basic flake setup with git and brave
+#Basic flake setup with git and brave (README ... How to setup your flake configuration. Omit my hardware configuration and adjust your configuration.nix to your own preferences and os version)
 #See link for start on how to setup your own flake configuration --> https://nixos.asia/en/configuration-as-flake 
 #Special thanks to https://emanote.srid.ca/ for this tutorial! Check out this website too!
 #

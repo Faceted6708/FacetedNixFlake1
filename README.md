@@ -4,7 +4,7 @@
 #Special thanks to https://emanote.srid.ca/ for this tutorial! Check out this website too!
 #
 #After above above Flake onfiguration tutorial it mentions saving your configuration to GIT by "pushing" your configuration repo to it, do this -->
-#git push --set-upstream https://github.com/GITUSER/ master 
+# $git push --set-upstream https://github.com/GITUSER/ master 
 #Change "GITUSER" to your GIT account main repository you have created. If you get a password authentication not supported see note below.
 #
 #Attempting to upload your config to GIT? Git Password Authentication Error?
